@@ -5,5 +5,4 @@ I study Data Science-EBAC and have Advanced English, a programming course on the
 
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
  
-Welcome, my name is Juliana, I am 28 years old,i'm from Brazil
-I study Data Science-EBAC and have Advanced English, a programming course on the Unity and Phyton platform.
+
